@@ -1,4 +1,5 @@
 import Product from './Product';
+import dropdown from '../assets/dropdown.svg';
 
 const Products = () => {
     return (
@@ -10,19 +11,18 @@ const Products = () => {
                 <div className="w-[58px] h-1 bg-zinc-100 rounded-3xl" />
             </div>
             
-            <div className="flex">
-                <div className="w-[157px] h-[30px] flex">
-                    <div className="text-slate-400 text-base font-bold leading-[30px]">Sort:</div>
-                    <div className="text-slate-600 text-base font-bold leading-[30px]">Best Selling</div>
+            <div className="flex gap-8 px-6 flex-wrap">
+
+                <div className="flex items-center gap-2 cursor-pointer">
+                    <div className="text-slate-400 text-base font-bold leading-[30px]">Filter:</div>
+                    <div className="text-slate-600 text-base font-bold leading-[30px] text-nowrap">All Products</div>
+                    <img className='h-3 w-3' src={dropdown} />
                 </div>
 
-                <div className="w-[169px] h-[30px] flex">
-                    <div className="text-slate-400 text-base font-bold leading-[30px]">
-                        Filter:
-                    </div>
-                    <div className="text-slate-600 text-base font-bold leading-[30px]">
-                        All Products
-                    </div>
+                <div className="flex items-center gap-2 cursor-pointer">
+                    <div className="text-slate-400 text-base font-bold leading-[30px]">Sort:</div>
+                    <div className="text-slate-600 text-base font-bold leading-[30px] text-nowrap">Best Selling</div>
+                    <img className='h-3 w-3' src={dropdown} />
                 </div>
             </div>
 
