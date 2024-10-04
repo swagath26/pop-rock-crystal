@@ -1,8 +1,7 @@
 {
   "files": {
-    "main.css": "/pop-rock-crystal/static/css/main.2f182348.css",
-    "main.js": "/pop-rock-crystal/static/js/main.933635e2.js",
-    "static/js/453.20b84fd5.chunk.js": "/pop-rock-crystal/static/js/453.20b84fd5.chunk.js",
+    "main.css": "/pop-rock-crystal/static/css/main.2b4b0f4c.css",
+    "main.js": "/pop-rock-crystal/static/js/main.aa8f27b1.js",
     "static/media/ProductSans-Regular.ttf": "/pop-rock-crystal/static/media/ProductSans-Regular.2765c69613690b1b9c03.ttf",
     "static/media/ProductSans-Thin.ttf": "/pop-rock-crystal/static/media/ProductSans-Thin.cc886c2747bf6f2c4888.ttf",
     "static/media/ProductSans-Light.ttf": "/pop-rock-crystal/static/media/ProductSans-Light.1dde435cdc2a9b6a7130.ttf",
@@ -13,16 +12,18 @@
     "static/media/arrow-right-icon.svg": "/pop-rock-crystal/static/media/arrow-right-icon.b82b0d08b086bee8509df09ab1fc74ef.svg",
     "static/media/scroll-icon.svg": "/pop-rock-crystal/static/media/scroll-icon.98503ef6ece6afbef884c65f1b52833e.svg",
     "static/media/basket-icon.svg": "/pop-rock-crystal/static/media/basket-icon.1f52a28ad46f62142edff8ff74913a83.svg",
+    "static/media/menu.svg": "/pop-rock-crystal/static/media/menu.55d6781082301f015e3909a7cef91b5c.svg",
     "static/media/logo.svg": "/pop-rock-crystal/static/media/logo.747bc59f06620d96d89e99da81a26e16.svg",
+    "static/media/hero-gradient.svg": "/pop-rock-crystal/static/media/hero-gradient.5d15ffe2d50a1b4a1828f2a773906175.svg",
     "index.html": "/pop-rock-crystal/index.html",
+    "static/media/dropdown.svg": "/pop-rock-crystal/static/media/dropdown.bda6b12ec4e8d2224959d31d3a1042bb.svg",
     "static/media/bottom-curve.svg": "/pop-rock-crystal/static/media/bottom-curve.bce67ffeee80755eb883cf8c05afff1e.svg",
     "static/media/hero-curve.svg": "/pop-rock-crystal/static/media/hero-curve.f4ae668a1d3ffe893ceaaab58b605206.svg",
-    "main.2f182348.css.map": "/pop-rock-crystal/static/css/main.2f182348.css.map",
-    "main.933635e2.js.map": "/pop-rock-crystal/static/js/main.933635e2.js.map",
-    "453.20b84fd5.chunk.js.map": "/pop-rock-crystal/static/js/453.20b84fd5.chunk.js.map"
+    "main.2b4b0f4c.css.map": "/pop-rock-crystal/static/css/main.2b4b0f4c.css.map",
+    "main.aa8f27b1.js.map": "/pop-rock-crystal/static/js/main.aa8f27b1.js.map"
   },
   "entrypoints": [
-    "static/css/main.2f182348.css",
-    "static/js/main.933635e2.js"
+    "static/css/main.2b4b0f4c.css",
+    "static/js/main.aa8f27b1.js"
   ]
 }
